@@ -180,7 +180,7 @@ function List() {
             className="form-control"
           />
         </div>
-        <div className="col-auto">
+        <div className="col-auto"> 
           <button
             type="button"
             key="button"
